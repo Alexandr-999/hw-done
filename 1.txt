@@ -1,0 +1,4 @@
+SOUL - 42000
+HaizenberG - 500000
+mike - 15000
+Boss - 100
